@@ -19,5 +19,5 @@ from facebook.views import play
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('play/', play)
+    path('test/', play)
 ]

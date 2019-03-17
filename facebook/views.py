@@ -3,4 +3,4 @@ from django.shortcuts import render
 # Create your views here.
 
 def play(request):
-    return render(request, 'play.html')
+    return render(request, 'test.html')
